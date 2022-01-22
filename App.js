@@ -22,6 +22,7 @@ export default function App() {
     return (
         <div>
             <Navbar />
+         <Hero />// Just after updated.but it's not purpose in the github repository but this including reason for TOTAL WEBSITE IS READY
             <section className="cards-list">
                 {cards}
             </section>
